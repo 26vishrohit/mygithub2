@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file5 content
+=======
+file 7 [D[D[D 5 branch content
+>>>>>>> branch1
